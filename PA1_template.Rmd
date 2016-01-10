@@ -1,9 +1,9 @@
 ---
 title: "Reproducible Research: Peer Assessment 1"
 author: "Abhilash Kulkarni"
-output: 
-  html_document:
-    keep_md: true
+output: "PA1_template.md"
+html_document: "PA1_template.html"
+keep_md: true
 ---
 ##Description of the assignment
 This is the first assignment in the Reproducible Research course of John Hopkins
